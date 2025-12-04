@@ -13,13 +13,19 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
---># 
+.
+-->
 💫 About Me:
 I'm Really interested in React and React Native<br>Currently working in a Mobile Game Development Studio as FrontEnd Developer<br>Highly fan of JavaScript and TypeScript<br>and Sharing fun small Projects On GitHub<br>Also enthusiast to collaborate on Small but interesting JS based projects and libraries
 
+## 📞 Contact:
+[![Portfolio](https://img.shields.io/badge/Peyman-%230077B5.svg?logo=Peyman&logoColor=white)](https://peymanfazeli.netlify.app/)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peymanfazeli.work@gmail.com)
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peymanfazeli) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:peymanfazeli.work@gmail.com) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@peymanfazeli) [![Virgool](https://img.shields.io/badge/Virgool-12100E?logo=virgool&logoColor=white)](https://virgool.io/@peymanfazeli)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/peymanfazeli)
+[![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@peymanfazeli)
+[![Virgool](https://img.shields.io/badge/Virgool-12100E?logo=virgool&logoColor=white)](https://virgool.io/@peymanfazeli)
 
 # 💻 Tech Stack:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
